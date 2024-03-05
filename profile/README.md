@@ -6,20 +6,28 @@ A curated list of awesome Watchy resources.
 
 ## Contents
 
+- [Where to get](#where-to-get-watchy)
 - [Firmware](#firmware)
 - [Faces](#faces)
 - [Cases](#cases)
+- [Community](#community)
 - [License](#license)
+
+## Where to get Watchy
+
+Currently, SQFMI stopped shipping watchy's so here's alternative from Aliexpress:
+
+[E-Watch-FOSS](https://github.com/Szybet/E-Watch-FOSS)
 
 ## Firmware
 
-- [Watchy](https://github.com/sqfmi/Watchy)
-- [TinyWatchy](https://github.com/Michal-Szczepaniak/TinyWatchy)
-- [InkWatchy](https://github.com/Szybet/InkWatchy)
-- [Watchy GSR](https://github.com/GuruSR/Watchy_GSR)
-- [Minty OS](https://github.com/NiklasNeugebauer/minty-os)
-- [Smart-Watchy](https://github.com/SvenKoos/Smart-Watchy)
-- [Watchytchi](https://github.com/OregonJunco/Watchytchi)
+- [Watchy](https://github.com/sqfmi/Watchy) - Original firmware by SQFMI
+- [TinyWatchy](https://github.com/Michal-Szczepaniak/TinyWatchy) - Energy saving focused firmware by [Michał Szczepaniak](https://github.com/Michal-Szczepaniak)
+- [InkWatchy](https://github.com/Szybet/InkWatchy) - Firmware with some unique features by [Szybet](https://github.com/Szybet)
+- [Watchy GSR](https://github.com/GuruSR/Watchy_GSR) - Probably most featured firmware out there by [GuruSR](https://github.com/GuruSR)
+- [Minty OS](https://github.com/NiklasNeugebauer/minty-os) - A fresh multi-functional firmware by [Niklas Neugebauer](https://github.com/NiklasNeugebauer)
+- [Smart-Watchy](https://github.com/SvenKoos/Smart-Watchy) - Firmware providing smart watch functionality on Watchy by [SvenKoos](https://github.com/SvenKoos)
+- [Watchytchi](https://github.com/OregonJunco/Watchytchi) - Tamagotchi-like virtual pet for Watchy firmware by [Robin LoBuglio](https://github.com/OregonJunco)
 
 ## Faces
 
@@ -96,6 +104,10 @@ A curated list of awesome Watchy resources.
 
 - [SQFMI](https://github.com/sqfmi/watchy-cases)
 - [Watchy Invader Remix](https://www.printables.com/model/745711-watchy-invader-remix)
+
+## Community
+
+[Discord](https://discord.gg/ZXDegGV8E7)
 
 ## License
 
