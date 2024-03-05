@@ -23,8 +23,7 @@ A curated list of awesome Watchy resources.
 
 ## Faces
 
-Custom firmwares often provide ability to have multiple watch faces
-so this list only contains basic ones that use original Watchy firmware.
+### Custom firmwares often provide ability to have multiple watch faces so this list only contains basic ones that use original Watchy firmware.
 
 - [Bahn-for-Watchy](https://github.com/BraininaBowl/Bahn-for-Watchy)
 - [Re-Dub-for-Watchy](https://github.com/BraininaBowl/Re-Dub-for-Watchy)
