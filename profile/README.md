@@ -10,6 +10,7 @@ A curated list of awesome Watchy resources.
 - [Firmware](#firmware)
 - [Faces](#faces)
 - [Cases](#cases)
+- [Tools](#tools)
 - [Community](#community)
 - [License](#license)
 
