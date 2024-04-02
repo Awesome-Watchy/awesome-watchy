@@ -21,18 +21,18 @@ Currently, SQFMI stopped shipping watchy's so here's alternative from Aliexpress
 
 ## Firmware
 
-- [Watchy](https://github.com/sqfmi/Watchy) - Original firmware by SQFMI
+- [Watchy](https://github.com/sqfmi/Watchy) - Original firmware by SQFMI, very simple and basic
 - [TinyWatchy](https://github.com/Michal-Szczepaniak/TinyWatchy) - Energy saving focused firmware by [Michał Szczepaniak](https://github.com/Michal-Szczepaniak)
 - [InkWatchy](https://github.com/Szybet/InkWatchy) - Firmware with some unique features by [Szybet](https://github.com/Szybet)
 - [Watchy GSR](https://github.com/GuruSR/Watchy_GSR) - Probably most featured firmware out there by [GuruSR](https://github.com/GuruSR)
 - [Minty OS](https://github.com/NiklasNeugebauer/minty-os) - A fresh multi-functional firmware by [Niklas Neugebauer](https://github.com/NiklasNeugebauer)
-- [Smart-Watchy](https://github.com/SvenKoos/Smart-Watchy) - Firmware providing smart watch functionality on Watchy by [SvenKoos](https://github.com/SvenKoos)
+- [Smart-Watchy](https://github.com/SvenKoos/Smart-Watchy) - Firmware providing basic smart watch functionality on Watchy by [SvenKoos](https://github.com/SvenKoos)
 - [Watchytchi](https://github.com/OregonJunco/Watchytchi) - Tamagotchi-like virtual pet for Watchy firmware by [Robin LoBuglio](https://github.com/OregonJunco)
 - [wos](https://github.com/peerdavid/wos) - Firmware structured by different components which are controlled by a kernel made by [Peer David](https://github.com/peerdavid)
 
 ## Faces
-
-### Custom firmwares often provide ability to have multiple watch faces so this list only contains basic ones that use original Watchy firmware.
+<details>
+  <summary>Custom firmwares often provide ability to have multiple watch faces so this list only contains basic ones that use original Watchy firmware.</summary>
 
 - [Bahn-for-Watchy](https://github.com/BraininaBowl/Bahn-for-Watchy)
 - [Re-Dub-for-Watchy](https://github.com/BraininaBowl/Re-Dub-for-Watchy)
@@ -95,10 +95,15 @@ Currently, SQFMI stopped shipping watchy's so here's alternative from Aliexpress
 - [BinaryBlocks](https://github.com/Cqoicebordel/Watchfaces/tree/main/BinaryBlocks)
 - [Squarbital](https://github.com/Cqoicebordel/Watchfaces/tree/main/Squarbital)
 
+</details>
+
 ## Cases
 
 - [SQFMI](https://github.com/sqfmi/watchy-cases)
 - [Watchy Invader Remix](https://www.printables.com/model/745711-watchy-invader-remix)
+
+## Tools
+- [watchy-scom](https://github.com/Szybet/watchy-scom) - View and interact with your watchy from your computer
 
 ## Community
 
