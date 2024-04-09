@@ -104,7 +104,7 @@ Currently, SQFMI stopped shipping watchy's so here's alternative from Aliexpress
 - [Watchy Invader Remix](https://www.printables.com/model/745711-watchy-invader-remix)
 
 ## Tools
-- [watchy-scom](https://github.com/Szybet/watchy-scom) - View and interact with your watchy from your computer
+- [watchy-scom](https://github.com/Szybet/watchy-scom) - View and interact with your watchy from your computer or remotely
 
 ## Community
 
