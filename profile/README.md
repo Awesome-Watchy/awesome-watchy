@@ -16,9 +16,9 @@ A curated list of awesome Watchy resources.
 
 ## Where to get Watchy
 
-Currently, SQFMI stopped shipping watchy's so here's alternative from Aliexpress:
+Currently, SQFMI stopped shipping watchy's so here's alternative from other suppliers:
 
-[E-Watch-FOSS](https://github.com/Szybet/E-Watch-FOSS)
+[WatchySourcingHub](https://github.com/Szybet/WatchySourcingHub)
 
 ## Firmware
 
