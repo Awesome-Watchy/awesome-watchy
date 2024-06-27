@@ -2,8 +2,6 @@
 
 A curated list of awesome Watchy resources.
 
-[Watchy](https://watchy.sqfmi.com/)
-
 ## Contents
 
 - [Where to get](#where-to-get-watchy)
@@ -108,7 +106,7 @@ Currently, SQFMI stopped shipping watchy's so here's alternative from other supp
 
 ## Community
 
-[Discord](https://discord.gg/ZXDegGV8E7)
+Because of the lack of moderation on the official watchy server, while also banning random people without giving any reason, We created an alternative, a community drived discord server: <a href="https://discord.gg/6PUmRXZRGD">*atchy community</a>
 
 ## License
 
