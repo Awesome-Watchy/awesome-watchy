@@ -100,6 +100,7 @@ Currently, SQFMI stopped shipping watchy's so here's alternative from other supp
 
 - [SQFMI](https://github.com/sqfmi/watchy-cases)
 - [Watchy Invader Remix](https://www.printables.com/model/745711-watchy-invader-remix)
+- [GB with 500mAh](https://github.com/Michal-Szczepaniak/watchy-case)
 
 ## Tools
 - [watchy-scom](https://github.com/Szybet/watchy-scom) - View and interact with your watchy from your computer or remotely
